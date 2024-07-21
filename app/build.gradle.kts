@@ -69,4 +69,6 @@ dependencies {
     // HILT
     implementation ("com.google.dagger:hilt-android:2.48.1")
     kapt ("com.google.dagger:hilt-android-compiler:2.48")
+
+    implementation("androidx.activity:activity-ktx:1.9.0")
 }
